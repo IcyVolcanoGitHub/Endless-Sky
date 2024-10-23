@@ -1,4 +1,4 @@
-![Endless Sky Logo](https://cdn.modrinth.com/data/cached_images/e70de96838e9dbd170a82086a7a5bdc89a588ad8_0.webp)
+![Endless Sky](https://cdn.modrinth.com/data/cached_images/6cda35104b4ad6f0269520f91f2e402801c9bf90_0.webp)
 
 <center></center>
 <center>  
